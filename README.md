@@ -1,6 +1,6 @@
 # Hopsy Mobile Application - Connecting Users to the beer they love
 
-## What exactly is Hopsy?
+## What is Hopsy?
 Hopsy is an app that we desinged which connects users to various beers they wish to try. Our goal with this application is to make it easier for users to enjoy higher end beer without having to endure trying products they may not like. The application features a feed with local events at bars or breweries, a brewery locator and a recommendation engine. We make it easy for the user to find what they are looking for. Upon signing up, a new user is asked to enter various flavor preferences and beers that they already enjoy. Using this data and data from all the other users in the database, we can tailor unique recommendations to the user. A recommendation can then be upvoted or downvoted, further enhancing the accuracy of our recommendation.
 
 ## Project set up guide
