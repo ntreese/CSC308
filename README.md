@@ -1,4 +1,4 @@
-# CSC308/309
+# Hopsy Mobile Application - Connecting Users to the beer they love
 
 ## Project set up guide
 
